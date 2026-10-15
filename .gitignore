@@ -3,3 +3,12 @@ obj/
 *.db
 *.db-shm
 *.db-wal
+
+# frontend
+node_modules/
+dist/
+*.tsbuildinfo
+
+.idea/
+node_modules/
+dist/
